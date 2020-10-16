@@ -1,0 +1,13 @@
+"Mini Jam 65 =||= Theme := Abandon =||= =||= Limitation: TBA =||= "
+
+"Game Idea Synopsis'" {
+}
+
+"Toolset" {
+    ENGINE == Gamemaker Studio 2; 
+    DAW == Ableton; 
+    GFX == Aseprite || Krita; 
+    EDITOR && Management == VSCODE; 
+    DATA == Excel(?); 
+}
+
